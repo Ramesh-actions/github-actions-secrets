@@ -1,1 +1,1 @@
-# github-actions-secret
+# github-actions-secrets
